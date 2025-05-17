@@ -1,0 +1,63 @@
+[
+
+    {
+    "relativeURL" : "GouravKr128/Adventure-Works/refs/heads/main/Dataset/AdventureWorks_Calendar.csv",
+    "folderName" : "Calendar",
+    "fileName" : "Calendar.csv"
+    },
+    
+    {
+    "relativeURL" : "GouravKr128/Adventure-Works/refs/heads/main/Dataset/AdventureWorks_Customers.csv",
+    "folderName" : "Customers",
+    "fileName" : "Customers.csv"
+    },
+    
+    {
+    "relativeURL" : "GouravKr128/Adventure-Works/refs/heads/main/Dataset/AdventureWorks_Product_Categories.csv",
+    "folderName" : "Product_Categories",
+    "fileName" : "Product_Categories.csv"
+    },
+    
+    {
+    "relativeURL" : "GouravKr128/Adventure-Works/refs/heads/main/Dataset/AdventureWorks_Product_Subcategories.csv",
+    "folderName" : "Product_Subcategories",
+    "fileName" : "Product_Subcategories.csv"
+    },
+    
+    {
+    "relativeURL" : "GouravKr128/Adventure-Works/refs/heads/main/Dataset/AdventureWorks_Products.csv",
+    "folderName" : "Products",
+    "fileName" : "Products.csv"
+    },
+    
+    {
+    "relativeURL" : "GouravKr128/Adventure-Works/refs/heads/main/Dataset/AdventureWorks_Returns.csv",
+    "folderName" : "Returns",
+    "fileName" : "Returns.csv"
+    },
+    
+    {
+    "relativeURL" : "GouravKr128/Adventure-Works/refs/heads/main/Dataset/AdventureWorks_Sales_2015.csv",
+    "folderName" : "Sales_2015",
+    "fileName" : "Sales_2015.csv"
+    },
+    
+    {
+    "relativeURL" : "GouravKr128/Adventure-Works/refs/heads/main/Dataset/AdventureWorks_Sales_2016.csv",
+    "folderName" : "Sales_2016",
+    "fileName" : "Sales_2016.csv"
+    },
+    
+    {
+    "relativeURL" : "GouravKr128/Adventure-Works/refs/heads/main/Dataset/AdventureWorks_Sales_2017.csv",
+    "folderName" : "Sales_2017",
+    "fileName" : "Sales_2017.csv"
+    },
+    
+    {
+    "relativeURL" : "GouravKr128/Adventure-Works/refs/heads/main/Dataset/AdventureWorks_Territories.csv",
+    "folderName" : "Territories",
+    "fileName" : "Territories.csv"
+    }
+    
+    ]
